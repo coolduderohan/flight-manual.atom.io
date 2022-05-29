@@ -12,3 +12,13 @@ atom-text-editor {
   }
 }
 ```
+
+edited:
+
+code should be this:
+
+atom-text-editor .syntax--comment{
+  color: #0000FF;
+}
+
+welcome!
